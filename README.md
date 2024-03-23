@@ -1,6 +1,8 @@
-Face Recognition System
 
-The Face Recognition System is a robust solution designed for real-time facial identification. It offers a comprehensive suite of features, including efficient data collection, advanced model training capabilities, and seamless remote monitoring. This system prioritizes security and aims to deliver personalized user experiences, making it an ideal choice for various applications.
+# Project Name : Face Recognition System
+# Author : Ssempeebwa Phillip
+
+	The Face Recognition System is a robust solution designed for real-time facial identification. It offers a comprehensive suite of features, including efficient data collection, advanced model training capabilities, and seamless remote monitoring. This system prioritizes security and aims to deliver personalized user experiences, making it an ideal choice for various applications.
 
 
 
@@ -14,8 +16,9 @@ Features
 
 Usage
 
-    Clone the repository.
-    Install dependencies using pip install -r requirements.txt.
-    Run the system with python main.py or python3 main.py for Linux Users
+	Clone this repository to try the recorgniser 
+	Create a virtual Enviroment and install the required models in the requirements.txt file
+	        run *python3 -m pip install -r requirements.tx*
+	Requires python3x
 
-For any questions or issues, please open an issue.
+	For any questions or issues, please open an issue.
